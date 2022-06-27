@@ -113,7 +113,7 @@
 | 🟦 worker_threads    |                              |                   |                  |                      |
 
 <a name="own_learning_path"></a>
-#Own learning path
+# Own learning path
 
 ## 🖥️ Web API
 
