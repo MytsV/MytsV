@@ -15,7 +15,7 @@
 
 - C1 English, excellent search and problem-solving skills
 - Advanced Git
-- Intermediate Front-End skills, React
+- Intermediate frontend skills, React
 - Backend programming with Node.js, Express, MySQL, MongoDB
 - Mobile development with Flutter
 - Good knowledge of Python, C#, Java, C, PHP
