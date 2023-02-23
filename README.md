@@ -41,7 +41,7 @@
 
 ### **[TOP 30 graduates in Ukraine by final exam results (2021)](https://24tv.ua/education/yaki-vnz-vstupili-nayrozumnishi-vipuskniki-2021-ukrayina-novini_n1726504)**
 
-### **"Talent 2018", Zolochiv, Lviv oblast'**
+### **"Talent 2018", Zolochiv, Lviv Oblast**
 
 # Other experience
 
